@@ -1,16 +1,15 @@
 import React from "react";
 
-const Electronics = () => {
+export default function Electronics  () {
   return (
-    <>
-      <div>
-        <section className="todays-deals">
-          <h1 style={{ display: "inline-block" }} className="tdh1">
+    <div>
+      <section className="todays-deals">
+          
+        <h1 style={{ display: "inline-block" }} className="tdh1">
             Electronics
-          </h1>
+      </h1>
 
-          <a
-            href="https://gbapkpro.com/"
+          <a href="https://gbapkpro.com/"
             style={{
               color: "#007084",
               textDecoration: "none",
@@ -21,95 +20,44 @@ const Electronics = () => {
             See all details
           </a>
 
-          <div className="deals-container">
+      <div className="deals-container">
+        <img
+          className="direct_image"
+          src="https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600"
+          alt="Laptop"
+        />
 
-            {/* Laptop */}
-            <a href="checkmart products.html?value=0001">
-              <img
-                className="direct_image"
-                src="https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600"
-                alt="Laptop"
-                loading="lazy"
-              />
-            </a>
+        <img
+          className="direct_image"
+          src="https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=600"
+          alt="Smart Watch"
+        />
 
-            {/* Mobile */}
-            <a href="checkmart products.html?value=0002">
-              <img
-                className="direct_image"
-                src="https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=600"
-                alt="Mobile"
-                loading="lazy"
-              />
-            </a>
+        <img
+          className="direct_image"
+          src="https://images.unsplash.com/photo-1504707748692-419802cf939d?w=600"
+          alt="Laptop"
+        />
 
-            {/* Watch */}
-            <a href="checkmart products.html?value=0003">
-              <img
-                className="direct_image"
-                src="https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600"
-                alt="Watch"
-                loading="lazy"
-              />
-            </a>
+        <img
+          className="direct_image"
+          src="https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=600"
+          alt="Watch"
+        />
 
-          
+        <img
+          className="direct_image"
+          src="https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=600"
+          alt="Laptop"
+        />
 
-            {/* Mobile */}
-            <a href="checkmart products.html?value=0005">
-              <img
-                className="direct_image"
-                src="https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600"
-                alt="Mobile"
-                loading="lazy"
-              />
-            </a>
-
-            {/* Watch */}
-            <a href="checkmart products.html?value=0006">
-              <img
-                className="direct_image"
-                src="https://images.unsplash.com/photo-1547996160-81dfa63595aa?w=600"
-                alt="Watch"
-                loading="lazy"
-              />
-            </a>
-
-            {/* Mobile */}
-            <a href="checkmart products.html?value=0008">
-              <img
-                className="direct_image"
-                src="https://images.unsplash.com/photo-1580910051074-3eb694886505?w=600"
-                alt="Mobile"
-                loading="lazy"
-              />
-            </a>
-
-            {/* Watch */}
-            <a href="checkmart products.html?value=0009">
-              <img
-                className="direct_image"
-                src="https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?w=600"
-                alt="Watch"
-                loading="lazy"
-              />
-            </a>
-
-            {/* Laptop */}
-            <a href="checkmart products.html?value=0010">
-              <img
-                className="direct_image"
-                src="https://images.unsplash.com/photo-1484788984921-03950022c9ef?w=600"
-                alt="Laptop"
-                loading="lazy"
-              />
-            </a>
-
-          </div>
-        </section>
-      </div>
-    </>
+        <img
+          className="direct_image"
+          src="https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600"
+          alt="Smart Watch"
+        />
+        </div>
+    </section>
+    </div>
   );
 };
-
-export default Electronics;

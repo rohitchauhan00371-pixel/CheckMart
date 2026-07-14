@@ -33,7 +33,7 @@ const Foodies = () => {
     <i className="fa-solid fa-star"></i>
   </div>
 </div>
-            <p>Ankit palak Acer Aspire 5 A517-52-75N6 Laptop | 17.3" Full HD IPS Display | 11th Gen Intel Core i7-1165G7 | Intel Iris Xe Graphics | 16GB DDR4 | 512GB SSD | WiFi 6 | Fingerprint Reader | BL Keyboard | Windows 11</p>
+            <p>Acer Aspire 5 A517-52-75N6 Laptop | 17.3" Full HD IPS Display | 11th Gen Intel Core i7-1165G7 | Intel Iris Xe Graphics | 16GB DDR4 | 512GB SSD | WiFi 6 | Fingerprint Reader | BL Keyboard | Windows 11</p>
             <h2>₹ 58,233</h2>
             <h3>Add to bag</h3></a>
     
@@ -93,7 +93,7 @@ const Foodies = () => {
     <i className="fa-solid fa-star"></i>
   </div>
             </div>
-            <p>Ankit palak Acer Aspire 5 A517-52-75N6 Laptop | 17.3" Full HD IPS Display | 11th Gen Intel Core i7-1165G7 | Intel Iris Xe Graphics | 16GB DDR4 | 512GB SSD | WiFi 6 | Fingerprint Reader | BL Keyboard | Windows 11</p>
+            <p> Acer Aspire 5 A517-52-75N6 Laptop | 17.3" Full HD IPS Display | 11th Gen Intel Core i7-1165G7 | Intel Iris Xe Graphics | 16GB DDR4 | 512GB SSD | WiFi 6 | Fingerprint Reader | BL Keyboard | Windows 11</p>
             <h2>₹ 58,233</h2>
             <h3>Add to bag</h3></a>
     
@@ -213,7 +213,7 @@ const Foodies = () => {
     <i className="fa-solid fa-star"></i>
   </div>
             </div>
-            <p>Ankit palak Acer Aspire 5 A517-52-75N6 Laptop | 17.3" Full HD IPS Display | 11th Gen Intel Core i7-1165G7 | Intel Iris Xe Graphics | 16GB DDR4 | 512GB SSD | WiFi 6 | Fingerprint Reader | BL Keyboard | Windows 11</p>
+            <p>Acer Aspire 5 A517-52-75N6 Laptop | 17.3" Full HD IPS Display | 11th Gen Intel Core i7-1165G7 | Intel Iris Xe Graphics | 16GB DDR4 | 512GB SSD | WiFi 6 | Fingerprint Reader | BL Keyboard | Windows 11</p>
             <h2>₹ 58,233</h2>
             <h3>Add to bag</h3></a>
     
@@ -453,7 +453,7 @@ const Foodies = () => {
     <i className="fa-solid fa-star"></i>
   </div>
             </div>
-            <p>Ankit palak Acer Aspire 5 A517-52-75N6 Laptop | 17.3" Full HD IPS Display | 11th Gen Intel Core i7-1165G7 | Intel Iris Xe Graphics | 16GB DDR4 | 512GB SSD | WiFi 6 | Fingerprint Reader | BL Keyboard | Windows 11</p>
+            <p>Acer Aspire 5 A517-52-75N6 Laptop | 17.3" Full HD IPS Display | 11th Gen Intel Core i7-1165G7 | Intel Iris Xe Graphics | 16GB DDR4 | 512GB SSD | WiFi 6 | Fingerprint Reader | BL Keyboard | Windows 11</p>
             <h2>₹ 58,233</h2>
             <h3>Add to bag</h3></a>
     
@@ -483,7 +483,7 @@ const Foodies = () => {
     <i className="fa-solid fa-star"></i>
   </div>
             </div>
-            <p>Ankit palak Acer Aspire 5 A517-52-75N6 Laptop | 17.3" Full HD IPS Display | 11th Gen Intel Core i7-1165G7 | Intel Iris Xe Graphics | 16GB DDR4 | 512GB SSD | WiFi 6 | Fingerprint Reader | BL Keyboard | Windows 11</p>
+            <p>Acer Aspire 5 A517-52-75N6 Laptop | 17.3" Full HD IPS Display | 11th Gen Intel Core i7-1165G7 | Intel Iris Xe Graphics | 16GB DDR4 | 512GB SSD | WiFi 6 | Fingerprint Reader | BL Keyboard | Windows 11</p>
             <h2>₹ 58,233</h2>
             <h3>Add to bag</h3></a>
     
